@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Deepa Lakshmi
 
-### 🎓 CSE Undergraduate | Python • AI/ML • Full-Stack Development
+### 🎓 CSE Undergraduate | 🎨 UI/UX Designer | 🐍 Python • AI/ML • Full-Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Python+%7C+AI%2FML+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+%F0%9F%9A%80" />
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;UI%2FUX+Designer+%7C+Creative+Problem+Solver;Python+%7C+AI%2FML+Enthusiast;Designing+%2B+Building+Real-World+Projects;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/deepa-lakshmi-4a1653332/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,20 +19,60 @@
 
 ## 🌱 About Me
 
-I'm a Computer Science Engineering student interested in using
-technology to solve practical problems.
+I'm a Computer Science Engineering student with an interest in
+**UI/UX Design, Python, AI/ML and Full-Stack Development**.
 
-I enjoy learning by building projects rather than only studying
-theory. I'm currently focusing on strengthening my programming
-fundamentals, Python, AI/ML and full-stack development.
+I enjoy combining design and technology to create experiences
+that are simple, useful and visually engaging.
 
 - 🎓 Computer Science Engineering Undergraduate
+- 🎨 UI/UX Designer interested in user-centered design
 - 🐍 Currently improving my Python skills
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - 🌐 Exploring Full-Stack Development
-- 🎨 Interested in UI/UX Design
+- 🖌️ Designing interfaces and prototypes using Figma
 - 🚀 Interested in internships, hackathons and real-world projects
-- 📚 Learning something new through every project
+- 💡 Enjoy turning ideas into practical digital products
+
+---
+
+# 🎨 Design & Development
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎨 UI/UX Design
+
+I enjoy designing digital experiences with a focus on
+simplicity, usability and visual consistency.
+
+**Design Interests**
+
+`UI Design` `UX Design` `Wireframing`
+
+`Prototyping` `User-Centered Design`
+
+</td>
+
+<td width="50%">
+
+### 💻 Development
+
+I am building my development skills through academic,
+personal and real-world projects.
+
+**Development Interests**
+
+`Python` `Web Development` `AI/ML`
+
+`Full-Stack Development`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -125,7 +163,17 @@ responses.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ What I Work With
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+`UI Design` • `UX Design` • `Wireframing` • `Prototyping`
+
+---
 
 ### 🐍 Programming
 
@@ -133,19 +181,29 @@ responses.
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
+`Python` • `Programming Fundamentals`
+
+---
+
 ### 🌐 Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
+`HTML` • `CSS` • `JavaScript` • `PHP`
+
+---
+
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+`Artificial Intelligence` • `Machine Learning`
 
-### 🔧 Tools & Design
+`Recommendation Systems` • `AI-based Applications`
+
+---
+
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -165,6 +223,8 @@ Data Structures & Algorithms
 Machine Learning
    ↓
 AI / Generative AI
+   ↓
+UI/UX & Product Design
    ↓
 Full-Stack Development
    ↓
