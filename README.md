@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Python+%7C+AI%2FML+Enthusiast;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;UI%2FUX+Designer+%7C+Creative+Problem+Solver;Python+%7C+AI%2FML+Enthusiast;Designing+%2B+Building+Real-World+Projects;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/deepa-lakshmi-4a1653332/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
